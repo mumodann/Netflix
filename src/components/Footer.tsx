@@ -6,10 +6,10 @@ const footer = () => (
       &copy; 2022 Made with ❤️ by{' '}
       <a
         className='footer__copyright--link'
-        href='https://github.com/devandres-tech'
+        href='https://github.com/mumodann/'
       >
         {' '}
-        Dev Andres
+        Dev Mumo
       </a>
     </div>
   </footer>
